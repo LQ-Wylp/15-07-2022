@@ -1,0 +1,783 @@
+fileFormatVersion: 2
+guid: 4bd556bf855eca6448267af3d2a14abe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda84bdda7d7476478027d9a87eb9fed
+      internalID: 852164632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_1
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736741af9cf24674d822c5eac03c784d
+      internalID: 1090170279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_2
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e0d02f866609d4c8b5b8b493e19779
+      internalID: 1648426317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_3
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623ffcf117a534b46b296a3f04542cea
+      internalID: 306307361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_4
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28c5c6e31546e244aa03af424b1bdb8
+      internalID: 1961764935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_5
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b8843ca685b1a4495e94837dec2f58
+      internalID: 879449673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_6
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e74bf3a12978d44092b6af21efa46cd
+      internalID: 1507626712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_7
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ab12abfec284c489ed73cc760f9441
+      internalID: 971504861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_8
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5084028cf377ef4c9a536bb837c28e8
+      internalID: -208209077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_9
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f04a57ace12f5459a3d7b3efe30a5b
+      internalID: 1587112197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_10
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d58b112ff21d742ae069f1bff76750
+      internalID: -997158688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_11
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb10c3b57f4aa4344900e991efa12bc5
+      internalID: -2138789346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_12
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546dbfb0813e56642b78d38ef824406e
+      internalID: 421492996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_13
+      rect:
+        serializedVersion: 2
+        x: 6848
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2da20f315db5bc4ca6802fed4f73619
+      internalID: -1782267761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_14
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123b57e6586a62b4db4e678b6d072868
+      internalID: -1866262809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_15
+      rect:
+        serializedVersion: 2
+        x: 7872
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e18ec1ebf54d848910a928f1cfa010
+      internalID: -539401259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_16
+      rect:
+        serializedVersion: 2
+        x: 8384
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60728b7d8b4c76e4cb13c0c488d265f6
+      internalID: 1249076562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_17
+      rect:
+        serializedVersion: 2
+        x: 8896
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85946359bcd717f44af937d6ed52cf4d
+      internalID: -2073676599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_18
+      rect:
+        serializedVersion: 2
+        x: 9408
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ab18107a015714d99fd599d0425b5a
+      internalID: -699168896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_19
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9a6ae0625dd98499cc6a7679497927
+      internalID: -1825621205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_20
+      rect:
+        serializedVersion: 2
+        x: 10432
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da42d5d35e29803419510b17c050156f
+      internalID: 2122880965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_21
+      rect:
+        serializedVersion: 2
+        x: 10944
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e993b12679cbf5a4d878ed90b296a321
+      internalID: -1110566853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_22
+      rect:
+        serializedVersion: 2
+        x: 11456
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817c0a6bc6e188549aa251690a766fef
+      internalID: -557150679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_23
+      rect:
+        serializedVersion: 2
+        x: 11968
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac37a4e54a53d14f91c1a193ec7847f
+      internalID: 1855323014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_24
+      rect:
+        serializedVersion: 2
+        x: 12480
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d2d7ccc397e8641be0caa539952897
+      internalID: -7287256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_25
+      rect:
+        serializedVersion: 2
+        x: 12992
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adda6e71d951804eaf130e28831fa8d
+      internalID: 837263915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_26
+      rect:
+        serializedVersion: 2
+        x: 13504
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d62778c77c0484487388863e9224c0
+      internalID: 1798601781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_27
+      rect:
+        serializedVersion: 2
+        x: 14016
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e22b2eb4de70e44907d8a2816042bf
+      internalID: -1415229724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_28
+      rect:
+        serializedVersion: 2
+        x: 14528
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b8cd7999857d849b6e4026e707dbf2
+      internalID: -237626875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_epee_a_deux_main_29
+      rect:
+        serializedVersion: 2
+        x: 15040
+        y: 35
+        width: 143
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d339b1a04a977074788417fa075fe7d2
+      internalID: -821809674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Anim_epee_a_deux_main_2: 1648426317
+      Anim_epee_a_deux_main_16: 1249076562
+      Anim_epee_a_deux_main_24: -7287256
+      Anim_epee_a_deux_main_27: -1415229724
+      Anim_epee_a_deux_main_22: -557150679
+      Anim_epee_a_deux_main_4: 1961764935
+      Anim_epee_a_deux_main_5: 879449673
+      Anim_epee_a_deux_main_18: -699168896
+      Anim_epee_a_deux_main_29: -821809674
+      Anim_epee_a_deux_main_20: 2122880965
+      Anim_epee_a_deux_main_7: 971504861
+      Anim_epee_a_deux_main_10: -997158688
+      Anim_epee_a_deux_main_6: 1507626712
+      Anim_epee_a_deux_main_23: 1855323014
+      Anim_epee_a_deux_main_26: 1798601781
+      Anim_epee_a_deux_main_8: -208209077
+      Anim_epee_a_deux_main_15: -539401259
+      Anim_epee_a_deux_main_17: -2073676599
+      Anim_epee_a_deux_main_21: -1110566853
+      Anim_epee_a_deux_main_9: 1587112197
+      Anim_epee_a_deux_main_25: 837263915
+      Anim_epee_a_deux_main_0: 852164632
+      Anim_epee_a_deux_main_1: 1090170279
+      Anim_epee_a_deux_main_13: -1782267761
+      Anim_epee_a_deux_main_3: 306307361
+      Anim_epee_a_deux_main_11: -2138789346
+      Anim_epee_a_deux_main_19: -1825621205
+      Anim_epee_a_deux_main_12: 421492996
+      Anim_epee_a_deux_main_14: -1866262809
+      Anim_epee_a_deux_main_28: -237626875
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
