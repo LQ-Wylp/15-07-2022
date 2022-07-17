@@ -32,9 +32,15 @@ public class HealthSystem : MonoBehaviour
         Destroy(this.gameObject);
     }
 
+    public void TakeDammageArc(float value)
+    {
+      _HealthRemaining -= value;
+      CheckDie();
+    }
+
     public void TakeDammage(float value)
     {
-        if(_ImmunityTime <= 0)
+        if (_ImmunityTime <= 0)
         {
             _HealthRemaining -= value;
             CheckDie();

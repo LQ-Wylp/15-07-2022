@@ -19,7 +19,7 @@ public class BulletArc : MonoBehaviour
 
         if(other.gameObject.tag == "Ennemy")
         {
-            other.gameObject.GetComponent<HealthSystem>().TakeDammage(_Dammage);
+            other.gameObject.GetComponent<HealthSystem>().TakeDammageArc(_Dammage);
             Destroy(this.gameObject);
         }
     }
